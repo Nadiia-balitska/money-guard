@@ -1,8 +1,11 @@
-Login and Register with confirmation the password and slide bar:
+Login:
 ![image](https://github.com/user-attachments/assets/47e68682-4cf6-49a1-abb7-898b6d4425b9)
+
+
+Register with confirmation the password and slide bar:
 ![image](https://github.com/user-attachments/assets/eaf2e89e-5597-4594-9dc8-67256714f3ca)
 
-
+HOME PAGE:
 ![image](https://github.com/user-attachments/assets/a13c648b-3b66-47a5-840c-874a2cd1d8a4)
 You can add, edit or delete transactions:
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/0b3ab204-0247-44ed-8afd-87882dc3fd47">
