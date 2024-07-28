@@ -34,8 +34,10 @@ Logout Modal approvement:
 ![image](https://github.com/user-attachments/assets/0d5e11b5-78ef-42a5-a2fa-538407c128d9)
 
 
-In phone version it look like:
-(Home Page with ability  to scroll up)
+In phone version HOME PAGE look like:
+(with ability  to scroll up)
+
+
 ![image](https://github.com/user-attachments/assets/69060874-8a24-451d-9d5e-24e51a59cc75)
 
 
