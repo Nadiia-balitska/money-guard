@@ -1,3 +1,8 @@
+Login and Register with confirmation the password and slide bar:
+![image](https://github.com/user-attachments/assets/47e68682-4cf6-49a1-abb7-898b6d4425b9)
+![image](https://github.com/user-attachments/assets/eaf2e89e-5597-4594-9dc8-67256714f3ca)
+
+
 ![image](https://github.com/user-attachments/assets/a13c648b-3b66-47a5-840c-874a2cd1d8a4)
 You can add, edit or delete transactions:
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/0b3ab204-0247-44ed-8afd-87882dc3fd47">
@@ -8,7 +13,10 @@ Adding:
 
 ![image](https://github.com/user-attachments/assets/bc91c12f-ef90-4520-a721-6e00fd2bba75)
 
+
+Statistic Page:
 ![image](https://github.com/user-attachments/assets/50f723c9-28e1-4f40-a5ca-e9e318aa3e5b)
+
 
 Morover you can watch filtred statistic :
 
