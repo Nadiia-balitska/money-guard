@@ -8,7 +8,11 @@ Register with confirmation the password and slide bar:
 HOME PAGE:
 ![image](https://github.com/user-attachments/assets/a13c648b-3b66-47a5-840c-874a2cd1d8a4)
 You can add, edit or delete transactions:
+
+
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/0b3ab204-0247-44ed-8afd-87882dc3fd47">
+
+
 Editing:
 
 ![image](https://github.com/user-attachments/assets/dda864c6-2e3e-4cc2-90b6-785d2eb127c1)
